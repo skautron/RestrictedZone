@@ -17,14 +17,28 @@
 
 ### Arsenal
 ![Arsenal](../images/Arsenal)
+
 Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un bono de Puntos de Victoria cada 10 munutos (Clan).
 
 ### Torre de Guardia
+![Torre de Guardia](../images/torredeguardia)
 
 ### Centro de Comando
+![Centro de Comando](../images/commandcenter)
+
 ### Taller
+![Taller](../images/workshop)
+
 ### Gasolinera
+![Gasolinera](../images/gasstation)
+
 ### Hospital
+![Hospital](../images/hospital)
+
+
 ### Armeria
+![Armería](../images/armeria)
+
 ### Recolector de Puntos (Pendiente Traducción correcta al español)
+![Recolector de Puntos](../images/supplypoints)
 
