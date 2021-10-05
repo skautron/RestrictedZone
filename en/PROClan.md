@@ -1,6 +1,6 @@
 # PRO1 Clan Wiki
 
-# Languages
+## Languages
 [English](../en/PROClan.md)
 
 ## Index
