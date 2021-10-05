@@ -4,7 +4,7 @@
 1. [¿Como funciona el evento?](##¿Como-funciona-el-evento?)
 2. [Edificios](##Edificios)
 
-## ¿Como funciona el evento?
+##¿Como funciona el evento?
 
 ![Battlefield](../images/Battlefield.jpeg)
 
