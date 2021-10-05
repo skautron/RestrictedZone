@@ -11,6 +11,10 @@
   * [Hospital](#hospital)
   * [Armería](#armeria)
   * [Recolector de Puntos](#recolector-de-puntos)
+* [Estrategia del Clan](#estrategia-del-clan)
+  * [Antes de entrar](#antes-de-entrar)
+  * [Distribución de equipos](#distribucion-de-equipos)
+  * [Instrucciones Generales](#instrucciones-generales)
 
 ## ¿Como funciona el evento?
 
@@ -26,6 +30,7 @@
 ### Arsenal
 ![Arsenal](../images/Arsenal)
 
+**Edificion central en el mapa**
 Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un bono de Puntos de Victoria cada 10 munutos (Clan).
 
 ### Torre de Guardia
@@ -51,4 +56,14 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 :warning: *(Pendiente Traducción correcta al español)* :warning:
 
 ![Recolector de Puntos](../images/supplypoints)
+
+## Estrategia del Clan
+
+### Antes de entrar
+
+### Distribución de equipos
+
+### Instrucciones Generales
+
+
 
