@@ -6,3 +6,4 @@
 ## Indice
 
 1. [Zona Restringida](./ZonaRestringida.md)
+2. [Selector de Idioma](../Readme.md)
