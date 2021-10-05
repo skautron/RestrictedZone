@@ -15,3 +15,15 @@
 
 ## Edificios
 
+### Arsenal
+Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un bono de Puntos de Victoria cada 10 munutos (Clan).
+
+### Torre de Guardia
+
+### Centro de Comando
+### Taller
+### Gasolinera
+### Hospital
+### Armeria
+### Recolector de Puntos (Pendiente Traducción correcta al español)
+
