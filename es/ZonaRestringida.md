@@ -13,7 +13,7 @@
   * [Recolector de Puntos](#recolector-de-puntos)
 * [Estrategia del Clan](#estrategia-del-clan)
   * [Antes de entrar](#antes-de-entrar)
-  * [Distribución de equipos](#distribucion-de-equipos)
+  * [Distribución de equipos](#distribución-de-equipos)
   * [Instrucciones Generales](#instrucciones-generales)
 
 ## ¿Como funciona el evento?
