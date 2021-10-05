@@ -4,7 +4,13 @@
 * [¿Como funciona el evento?](#como-funciona-el-evento)
 * [Edificios](#edificios)
   * [Arsenal](#arsenal)
-  * [Torre de Guardia](#torre-de-guardia) 
+  * [Torre de Guardia](#torre-de-guardia)
+  * [Centro de Comando](#centro-de-comando)
+  * [Taller](#taller)
+  * [Gasolinera](#gasolinera)
+  * [Hospital](#hospital)
+  * [Armería](#armeria)
+  * [Recolector de Puntos](#recolector-de-puntos)
 
 ## ¿Como funciona el evento?
 
