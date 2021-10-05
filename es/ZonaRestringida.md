@@ -48,7 +48,7 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 ![Armería](../images/armeria)
 
 ### Recolector de Puntos
-*(Pendiente Traducción correcta al español)*
+:warning: *(Pendiente Traducción correcta al español)* :warning:
 
 ![Recolector de Puntos](../images/supplypoints)
 
