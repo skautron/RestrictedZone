@@ -1,3 +1,3 @@
 # PRO1 Clan
 
-1. [Zona Restringida](ZonaRestringida.md)
+[Español](./es/PROClan.md) | [English](./en/PROClan.md)
