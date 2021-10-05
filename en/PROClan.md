@@ -1,7 +1,7 @@
 # PRO1 Clan Wiki
 
 ## Languages
-[English](../en/PROClan.md)
+[Spanish](../es/PROClan.md)
 
 ## Index
 
