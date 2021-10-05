@@ -32,7 +32,7 @@
 
 **Edificio central en el mapa**
 
-Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un bono de Puntos de Victoria cada 10 munutos (Clan).
+Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un bono de Puntos de Victoria cada 10 minutos (Clan).
 
 ### Torre de Guardia
 ![Torre de Guardia](../images/torredeguardia)
