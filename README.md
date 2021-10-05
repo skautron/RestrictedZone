@@ -1,4 +1,4 @@
 # PRO1 Clan Wiki
 
-## Select Language
+## Selecciona Idioma / Select Language
 [Español](./es/PROClan.md) | [English](./en/PROClan.md)
