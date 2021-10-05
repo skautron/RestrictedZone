@@ -1,8 +1,8 @@
 # Zona Restringida
 
 ## Indice
-1. [¿Como funciona el evento?](##-¿Como-funciona-el-evento?)
-2. [Edificios](##-Edificios)
+1. [¿Como funciona el evento?](#como-funciona-el-evento)
+2. [Edificios](#edificios)
 
 ## ¿Como funciona el evento?
 
