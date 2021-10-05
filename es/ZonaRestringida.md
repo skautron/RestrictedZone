@@ -30,7 +30,7 @@
 ### Arsenal
 ![Arsenal](../images/Arsenal)
 
-**Edificion central en el mapa**
+**Edificio central en el mapa**
 
 Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un bono de Puntos de Victoria cada 10 munutos (Clan).
 
