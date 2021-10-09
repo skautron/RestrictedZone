@@ -64,13 +64,17 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 
 ### Distribución de equipos
 
-| Grupo A (**Arsenal**) | Grupo B (**Centro Cmd 1 y 2**) | Grupo T (**Taller 1 y 2**) | Grupo G (**Gasolinera**) | Grupo TS (**Torres**) | Grupo H (**Hospital**) |
+| Grupo A (**Arsenal**) | Grupo B (**Centro Cmd 1 y 2**) | Grupo T (**Taller 1 y 2**) | Grupo G (**Gasolinera**) | Grupo TS (**Torres**) | Grupo H (**Hospital**) | 
 |:---------------------:|:------------------------------:|:--------------------------:|:------------------------:|:---------------------:|:----------------------:|
-| **Murdock**           | **Leono**                      | **Lilith**                 | **Machete**              | **Boss**              |                        |
-| Marks                 | Ike2101                        | Puto                       |                          |                       |                        |
-| Dipaz                 | Oscuridad                      | Skautron                   |                          |                       |                        |
-| Ruben                 | Son Mohikan                    | Damablanca                 |                          |                       |                        |
+| **Murdock**           | **Leono**                      | **Lilith**                 | **Machete**              | **Boss**              | **Barreda**            | | Marks                 | Ike2101                        | Puto                       | Wenceslao                | HaroTheBoss           | Poderio                | | Dipaz                 | Oscuridad                      | Skautron                   | Skaer                    | Toscano               | Denise                 | | Ruben                 | Son Mohikan                    | Damablanca                 | Riky1                    | Alckaranlik           |                        |
 | She                   | Sun Jin Woo                    |                            |                          |                       |                        |
+
+
+| Grupo D (**Depósito de Munición**) |
+| :---------------------------------:|
+| **Leonel20**                       |
+| Harold                             |
+| Master                             |
 
 ### Instrucciones Generales
 
