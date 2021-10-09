@@ -12,9 +12,9 @@
   * [Armería](#armeria)
   * [Recolector de Puntos](#recolector-de-puntos)
 * [Estrategia del Clan](#estrategia-del-clan)
+  * [Instrucciones Generales](#instrucciones-generales)
   * [Antes de entrar](#antes-de-entrar)
   * [Distribución de equipos](#distribución-de-equipos)
-  * [Instrucciones Generales](#instrucciones-generales)
 
 ## ¿Como funciona el evento?
 
@@ -60,6 +60,12 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 
 ## Estrategia del Clan
 
+### Instrucciones Generales
+* Atacar individualmente solo si las defensas de la construcción son bajas.
+* De todas formas, se recomienda recuperar edificios invadidos siempre lanzando raid.
+* Debemos intentar capturar los Centros de Comando enemigos, justo después de ocupar los edificios en nuestro lado.
+* F4 siempre deben estar recolentando puntos en los lugares de recogida o en las Estaciones de Recursos.
+
 ### Antes de entrar
 
 ### Distribución de equipos
@@ -84,8 +90,6 @@ jugadores más fuertes o más bien con las marchas más poderosas de los 30 miem
 
 **GRUPO B:** El Grupo B, (conformado por los siguientes 5 jugadores con mejores marchas) será el encargado de los dos centros de comando de nuestro lado del mapa y se enfocarán en el centro de comando de abajo de nuestro lado. Ahí, deberán enviar su F1 y, su F2, al centro de comando de arriba de nuestro lado. Las dos marchas se enviarán al principio del evento.
 
-
-### Instrucciones Generales
 
 
 
