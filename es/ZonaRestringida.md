@@ -79,6 +79,12 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 | Harold                             |
 | Master                             |
 
+**GRUPO A:** El Grupo A, será el encargado principal de tomar y defender el arsenal y deberán ser los 5
+jugadores más fuertes o más bien con las marchas más poderosas de los 30 miembros.
+
+**GRUPO B:** El Grupo B, (conformado por los siguientes 5 jugadores con mejores marchas) será el encargado de los dos centros de comando de nuestro lado del mapa y se enfocarán en el centro de comando de abajo de nuestro lado. Ahí, deberán enviar su F1 y, su F2, al centro de comando de arriba de nuestro lado. Las dos marchas se enviarán al principio del evento.
+
+
 ### Instrucciones Generales
 
 
