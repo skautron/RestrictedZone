@@ -64,6 +64,14 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 
 ### Distribución de equipos
 
+|Grupo A (**Arsenal**) | Grupo B     | Grupo T    | Grupo 4 | Grupo 5 |
+|:--------------------:|:-----------:|:----------:|:-------:|:-------:|
+| **Murdock**          | **Leono**   | **Lilith** | 
+| Marks                | Ike2101     | Puto       |
+| Dipaz                | Oscuridad   | Skautron   |
+| Ruben                | Son Mohikan | Damablanca |
+| She                  | Sun Jin Woo |            |
+
 ### Instrucciones Generales
 
 
