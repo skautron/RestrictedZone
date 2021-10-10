@@ -90,6 +90,6 @@ jugadores más fuertes o más bien con las marchas más poderosas de los 30 miem
 
 **GRUPO B:** El Grupo B, (conformado por los siguientes 5 jugadores con mejores marchas) será el encargado de los dos centros de comando de nuestro lado del mapa y se enfocarán en el centro de comando de abajo de nuestro lado. Ahí, deberán enviar su F1 y, su F2, al centro de comando de arriba de nuestro lado. Las dos marchas se enviarán al principio del evento.
 
-
+**Resto de Grupo:** Atentos a no perder el/los edificio/s asignado/s.
 
 
