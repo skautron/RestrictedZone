@@ -73,17 +73,17 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 | Grupo A (**Arsenal**) | Grupo B (**Centro Cmd 1 y 2**) | Grupo T (**Taller 1 y 2**) | Grupo G (**Gasolinera**) | Grupo TS (**Torres**) | Grupo H (**Hospital**) | 
 |:---------------------:|:------------------------------:|:--------------------------:|:------------------------:|:---------------------:|:----------------------:|
 | **Murdock**           | **Leono**                      | **Lilith**                 | **Machete**              | **Boss**              | **Barreda**            |
-| Marks                 | Ike2101                        | Puto                       | Wenceslao                | HaroTheBoss           | Poderio                |
-| Dipaz                 | Oscuridad                      | Skautron                   | Skaer                    | Toscano               | Denise                 |
-| Ruben                 | Son Mohikan                    | Damablanca                 | Riky1                    | Alckaranlik           |                        |
-| She                   | Sun Jin Woo                    |                            |                          |                       |                        |
+| Marks                 | Ike2101                        | Prime                      | Wenceslao                | HaroTheBoss           | Eymenn                 |
+| Dipaz                 | Karahanli                      | Skautron                   | Skaer                    | Toscano               | Alckaranlik            |
+| Mösyö                 | Son Mohikan                    | Damablanca                 | Riky1                    | Sun JinWoo            | Mati                   |
+| Oscuridad             | She                            | Puto                       |                          |                       |                        |
 
 
 | Grupo D (**Depósito de Munición**) |
 | :---------------------------------:|
 | **Leonel20**                       |
-| Harold                             |
-| Master                             |
+| Manolo                             |
+| Denise                             |
 
 **GRUPO A:** El Grupo A, será el encargado principal de tomar y defender el arsenal y deberán ser los 5
 jugadores más fuertes o más bien con las marchas más poderosas de los 30 miembros.
