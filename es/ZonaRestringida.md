@@ -70,7 +70,7 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 
 ### Distribución de equipos
 
-| Grupo 1 (**Arsenal**) | Grupo 2 (**Centro Cmd 1 y 2**) | Grupo 3 (**Taller 1 y 2**) | Grupo 4 (**Gasolinera**) | Grupo 5 (**Torres**)  | Grupo 6 (**Hospital**) | 
+| Grupo 1 (**Arsenal**) | Grupo 2 (**Centro Cmd 1 y 2**) | Grupo 3 (**Taller 1 y 2**) | Grupo 4                  | Grupo 5               | Grupo 6                | 
 |:---------------------:|:------------------------------:|:--------------------------:|:------------------------:|:---------------------:|:----------------------:|
 | **Murdock**           | **Leono**                      | **Damablanca**             | **Machete**              | **Boss**              | **Leonel20**           |
 | Mösyo                 | Ike2101                        | Skautron                   | Wenceslao                | HaroTheBoss           | Alckaranlik            |
