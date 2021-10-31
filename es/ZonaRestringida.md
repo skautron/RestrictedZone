@@ -80,6 +80,9 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 
 * En cursiva los reserva.
 
+![Estrategia](../images/Strategy.jpeg)
+
+
 **GRUPO 1:** El Grupo 1, será el encargado principal de tomar y defender el arsenal y deberán ser los 5
 jugadores más fuertes o más bien con las marchas más poderosas de los 30 miembros.
 
