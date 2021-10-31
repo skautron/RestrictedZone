@@ -70,13 +70,13 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 
 ### Distribución de equipos
 
-| Grupo 1 (**Arsenal**) | Grupo 2 (**Centro Cmd 1 y 2**) | Grupo 3 (**Taller 1 y 2**) | Grupo 4 (**Torres**)     | Grupo 5 (**Hospital**)| Grupo 6 (**Gasolinera**)| 
-|:---------------------:|:------------------------------:|:--------------------------:|:------------------------:|:---------------------:|:-----------------------:|
-| **Murdock**           | **Leono**                      | **Damablanca**             | **Machete**              | **Leonel20**          | **Boss**                |
-| Mösyo                 | Ike2101                        | Skautron                   | Wenceslao                | HaroTheBoss           | Alckaranlik             |
-| Marks                 | Son Mohikan                    | She                        | Skaer                    | Toscano               | Denise                  |
-| Dipaz                 | Oscuridad                      | Puto                       | Riki1.                   | Manolo                | Harold                  |
-| Oscuridad             | _Karahanli_ (reserva)          | _Lilith_ (reserva)         | _Sun JinWoo_ (reserva)   |                       |                         |
+| Grupo 1 (**Arsenal**)| Grupo 2 (**Centro Cmd 1 y 2**)| Grupo 3 (**Taller 1 y 2**)| Grupo 4 (**Torres**)   | Grupo 5 (**Hosp&Armeria**)| Grupo 6 (**Gasolinera**)| 
+|:--------------------:|:-----------------------------:|:-------------------------:|:----------------------:|:-------------------------:|:-----------------------:|
+| **Murdock**          | **Leono**                     | **Damablanca**            | **Machete**            | **Leonel20**              | **Boss**                |
+| Mösyo                | Ike2101                       | Skautron                  | Wenceslao              | HaroTheBoss               | Alckaranlik             |
+| Marks                | Son Mohikan                   | She                       | Skaer                  | Toscano                   | Denise                  |
+| Dipaz                | Oscuridad                     | Puto                      | Riki1                  | Manolo                    | Harold                  |
+| Oscuridad            | _Karahanli_ (reserva)         | _Lilith_ (reserva)        | _Sun JinWoo_ (reserva) |                           |                         |
 
 * En cursiva los reserva.
 
