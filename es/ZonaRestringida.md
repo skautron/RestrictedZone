@@ -70,26 +70,20 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 
 ### Distribución de equipos
 
-| Grupo A (**Arsenal**) | Grupo B (**Centro Cmd 1 y 2**) | Grupo T (**Taller 1 y 2**) | Grupo G (**Gasolinera**) | Grupo TS (**Torres**) | Grupo H (**Hospital**) | 
+| Grupo 1 (**Arsenal**) | Grupo 2 (**Centro Cmd 1 y 2**) | Grupo 3 (**Taller 1 y 2**) | Grupo 4 (**Gasolinera**) | Grupo 5 (**Torres**)  | Grupo 6 (**Hospital**) | 
 |:---------------------:|:------------------------------:|:--------------------------:|:------------------------:|:---------------------:|:----------------------:|
-| **Marks**.            | **Leono**                      | **Lilith**                 | **Machete**              | **Boss**              | **Barreda**            |
-| Dipaz                 | Ike2101                        | Skautron                   | Wenceslao                | HaroTheBoss           | Eymenn                 |
-| Mösyö                 | Son Mohikan                    | Damablanca                 | Skaer                    | Toscano               | Alckaranlik            |
-| Oscuridad             | She                            | Puto                       | Anyelis                  | Sun JinWoo            | Mati                   |
-| Ryuk1                 | Prime                          |                            | Turco                    |                       |                        |
+| **Murdock**           | **Leono**                      | **Damablanca**             | **Machete**              | **Boss**              | **Leonel20**           |
+| Mösyo                 | Ike2101                        | Skautron                   | Wenceslao                | HaroTheBoss           | Alckaranlik            |
+| Marks                 | Son Mohikan                    | Riky1                      | Skaer                    | Toscano               | Manolo                 |
+| Dipaz                 | She                            | Puto                       | Denise                   | Harold                |                        |
+| Oscuridad             | _Karahanli_                    | _Lilith_                   | _Sun JinWoo_             |                       |                        |
 
+* En cursiva los reserva.
 
-| Grupo D (**Depósito de Munición**) |
-| :---------------------------------:|
-| **Leonel20**                       |
-| Manolo                             |
-| Harold                             |
-
-
-**GRUPO A:** El Grupo A, será el encargado principal de tomar y defender el arsenal y deberán ser los 5
+**GRUPO 1:** El Grupo 1, será el encargado principal de tomar y defender el arsenal y deberán ser los 5
 jugadores más fuertes o más bien con las marchas más poderosas de los 30 miembros.
 
-**GRUPO B:** El Grupo B, (conformado por los siguientes 5 jugadores con mejores marchas) será el encargado de los dos centros de comando de nuestro lado del mapa y se enfocarán en el centro de comando de abajo de nuestro lado. Ahí, deberán enviar su F1 y, su F2, al centro de comando de arriba de nuestro lado. Las dos marchas se enviarán al principio del evento.
+**GRUPO 2:** El Grupo 2, (conformado por los siguientes 5 jugadores con mejores marchas) será el encargado de los dos centros de comando de nuestro lado del mapa y se enfocarán en el centro de comando de abajo de nuestro lado. Ahí, deberán enviar su F1 y, su F2, al centro de comando de arriba de nuestro lado. Las dos marchas se enviarán al principio del evento.
 
 **Resto de Grupo:** Atentos a no perder el/los edificio/s asignado/s.
 
