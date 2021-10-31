@@ -74,9 +74,9 @@ Al ocupar el Arsenal proporciona Puntos de Victoria (Individual y Clan), más un
 |:---------------------:|:------------------------------:|:--------------------------:|:------------------------:|:---------------------:|:----------------------:|
 | **Murdock**           | **Leono**                      | **Damablanca**             | **Machete**              | **Boss**              | **Leonel20**           |
 | Mösyo                 | Ike2101                        | Skautron                   | Wenceslao                | HaroTheBoss           | Alckaranlik            |
-| Marks                 | Son Mohikan                    | Riky1                      | Skaer                    | Toscano               | Manolo                 |
-| Dipaz                 | She                            | Puto                       | Denise                   | Harold                |                        |
-| Oscuridad             | _Karahanli_                    | _Lilith_                   | _Sun JinWoo_             |                       |                        |
+| Marks                 | Son Mohikan                    | She                        | Skaer                    | Toscano               | Manolo                 |
+| Dipaz                 | Oscuridad                      | Puto                       | Riki1.                   | Denise                | Harold                 |
+| Oscuridad             | _Karahanli_ (reserva)          | _Lilith_ (reserva)         | _Sun JinWoo_ (reserva)   |                       |                        |
 
 * En cursiva los reserva.
 
